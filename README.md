@@ -4,7 +4,7 @@
 
 MathHub is a comprehensive platform for mathematical modeling learning, competition preparation, and AI-assisted analysis.
 
-MathHub 是一个面向数学建模学习、竞赛备赛与 AI 辅助分析的综合平台。
+MathHub 是一个面向数学建模学习、竞赛备赛与 AI 辅助分析的综合平台。The website is directly accessible via https://mathhub.805211419.workers.dev/.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/13d488bc-a299-452c-8d7b-9ae43a242d8f" />
 
