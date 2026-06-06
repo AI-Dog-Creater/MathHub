@@ -6,7 +6,7 @@ MathHub is a comprehensive platform for mathematical modeling learning, competit
 
 MathHub 是一个面向数学建模学习、竞赛备赛与 AI 辅助分析的综合平台。
 
-<img src="C:\Users\80521\Downloads\ChatGPT Image 2026年6月6日 15_17_53.png" alt="ChatGPT Image 2026年6月6日 15_17_53" style="zoom:67%;" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/13d488bc-a299-452c-8d7b-9ae43a242d8f" />
 
 ---
 
@@ -18,7 +18,8 @@ MathHub is a comprehensive platform for Chinese-language mathematical modeling l
 
 The project already includes a solid set of learning and practical features, including a structured model library, mathematical modeling competition information, learning pathways, ability assessment, an AI modeling assistant, multimodal file upload, and integration with Alibaba Cloud Bailian / Tongyi compatible models and Gemini.
 
-<img src="C:\Users\80521\AppData\Roaming\Typora\typora-user-images\image-20260606151855021.png" alt="image-20260606151855021" style="zoom: 67%;" />
+<img width="2805" height="1446" alt="image" src="https://github.com/user-attachments/assets/f95aaf24-3d6e-420b-973d-40cd14eb2751" />
+
 
 ### Core Features
 
@@ -26,7 +27,8 @@ The project already includes a solid set of learning and practical features, inc
 
 - Browse a large collection of mathematical modeling and data analysis methods by category.
 
-  <img src="C:\Users\80521\AppData\Roaming\Typora\typora-user-images\image-20260606152000033.png" alt="image-20260606152000033" style="zoom:67%;" />
+ <img width="2838" height="1452" alt="image" src="https://github.com/user-attachments/assets/336ed896-9556-47f5-8b25-9672854e312b" />
+
 
 - Each model entry includes:
   - Summary
@@ -79,7 +81,8 @@ The econometrics section currently includes:
 
 #### 2. Mathematical Modeling Competition Hub
 
-<img src="C:\Users\80521\AppData\Roaming\Typora\typora-user-images\image-20260606152023076.png" alt="image-20260606152023076" style="zoom:67%;" />
+<img width="2824" height="1441" alt="image" src="https://github.com/user-attachments/assets/04343a5e-9cf1-4bd1-be86-88175cd7edcb" />
+
 
 - Collects information about common mathematical modeling competitions.
 - Displays timelines, participation requirements, difficulty levels, target participants, and historical problem entry links.
@@ -106,7 +109,8 @@ Typical assessment dimensions include:
 
 #### 5. AI Modeling Assistant
 
-<img src="C:\Users\80521\AppData\Roaming\Typora\typora-user-images\image-20260606152048210.png" alt="image-20260606152048210" style="zoom:67%;" />
+<img width="2826" height="1447" alt="image" src="https://github.com/user-attachments/assets/058dac85-01da-41f6-a811-e2b92f01da89" />
+
 
 The project includes a built-in chat-style AI assistant for mathematical modeling tasks.
 
@@ -138,7 +142,8 @@ Typical use cases include:
 
 Users can configure their own Bailian API key and model settings on the settings page.
 
-<img src="C:\Users\80521\AppData\Roaming\Typora\typora-user-images\image-20260606152112482.png" alt="image-20260606152112482" style="zoom:67%;" />
+<img width="2821" height="1457" alt="image" src="https://github.com/user-attachments/assets/e8cc3b40-009e-4624-b307-bda601132d19" />
+
 
 The current project supports or provides connectivity testing for:
 - Text chat models
