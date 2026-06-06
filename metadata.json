@@ -1,0 +1,6 @@
+{
+  "name": "MathHub",
+  "description": "面向初学者的数学建模与备赛学习平台 MathModel Hub，提供系统化的模型知识、主流赛事汇总以及AI智能问答辅助学习。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
